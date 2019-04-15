@@ -11,7 +11,7 @@ dependencies:
   permission_handler:
     git:
       url: git://github.com/mattiagalati/flutter-permission-handler.git
-      ref: tweaks/ios_privacy_descriptions
+      ref: 8cbc89e49c87e4aa6663b6067ce35cdf9ecb8226
   google_api_availability: "^2.0.0"
 dev_dependencies:
   flutter_test:
